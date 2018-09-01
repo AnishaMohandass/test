@@ -1,0 +1,124 @@
+.top
+{
+position: relative;
+top: 30px;
+left: 0px;
+height: 400px;
+width: 100%;
+background-color: purple;
+color: gold;
+text-align: center;
+font-size: 30pt;
+}
+
+h1:hover
+{
+color: white;
+font-size: 100pt;
+}
+
+.lat
+{
+position: relative;
+top: 50px;
+left:0px;
+height: 30px;
+width: 55%;
+background: black;
+color: white;
+font-family: forte;
+}
+
+.pic1
+{
+position: relative;
+top: 70px;
+left: 0px;
+height: 160px;
+width: 160px;
+background: lightgreen;
+}
+
+.pic2
+{
+position: relative;
+top: 90px;
+left: 0px;
+height: 160px;
+width: 160px;
+background: seagreen;
+}
+
+.pic3
+{
+position: relative;
+top: 110px;
+left: 0px;
+height: 160px;
+width: 160px;
+background: limegreen;
+}
+
+.cut1
+{
+position: absolute;
+top: 540px;
+left: 200px;
+height: 155px;
+width: 495px;
+background: gray;
+}
+
+.cut2
+{
+position: absolute;
+top: 720px;
+left: 200px;
+height: 155px;
+width: 495px;
+background: gray;
+}
+
+.cut3
+{
+position: absolute;
+top: 900px;
+left: 200px;
+height: 155px;
+width: 495px;
+background: gray;
+}
+
+.footerhome
+{
+position: absolute;
+top: 1060px;
+left: 5px;
+height: 40px;
+width: 99.5%;
+background: black;
+color: white;
+padding-top: 6px;
+}
+
+
+.pic4
+{
+position: absolute;
+top: 490px;
+left: 750px;
+height: 565px;
+width: 500px;
+background: skyblue;
+}
+
+h2
+{
+padding-left: 6px;
+}
+
+h2:hover
+{
+color: purple;
+text-decoration: underline;
+}

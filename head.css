@@ -1,0 +1,22 @@
+header
+{
+height: 30px;
+width: 100%;
+background: black;
+}
+
+a
+{
+float: right;
+padding-right: 14px;
+padding-left:14px;
+padding-top:6px;
+color: white;
+font-family: Forte;
+text-decoration: none;
+}
+
+a:hover
+{
+background: pink;
+}

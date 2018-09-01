@@ -1,0 +1,70 @@
+p
+{
+float: left;
+color: white;
+font-family: Forte;
+font-size: 10pt;
+}
+
+
+.footer
+{
+position: absolute;
+top: 865px;
+left: 5px;
+height: 40px;
+width: 99.5%;
+background: black;
+color: white;
+padding-top: 6px;
+}
+
+body
+{
+background: plum;
+}
+
+.ab
+{
+position: relative;
+top: 40px;
+left: 0px;
+height: 350px;
+width: 100%;
+background-color: purple;
+text-align: center;
+color: gold;
+font-size: 90pt;
+}
+
+.para
+{
+margin: 100px;
+display: block;
+text-align: center;
+}
+
+.cot
+{
+margin: 100px;
+display: block;
+text-align: left;
+font-family: Lucida Handwriting;
+color: maroon,
+}
+
+.msg
+{
+position: absolute;
+top:500px;
+left:700px;
+height: 300px;
+width: 500px;
+background-color: skyblue;
+}
+
+h3
+{
+font-family: arial;
+text-align; center;
+}

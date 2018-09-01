@@ -1,0 +1,80 @@
+<html>
+<head>
+<title>Register</title>
+<link rel="stylesheet" type="text/css" href="home.css">
+<link rel="stylesheet" type="text/css" href="head.css">
+
+<script>
+function msg()
+{
+alert("Registered Successfully");
+}
+</script>
+
+</head>
+
+<body>
+
+<header>
+<p>The magazine that shows the beauty of nature..</p>
+<a href="register.html">REGISTER</a>
+<a href="login.html">LOGIN</a>
+<a href="contact.html">CONTACT US</a>
+<a href="about.html">ABOUT US</a>
+<a href="home.html">HOME</a>
+</header>
+
+<form name="register" method="post">
+<br><br><br><br><br>
+<h1 align="center">Register</h1>
+
+<table align="center" cellpadding="10">
+
+<tr>
+<td>Name : </td>
+<td><input type="text" name="uname" required></td>
+</tr>
+
+<tr>
+<td>Date of Birth : </td>
+<td><input type="date" name="dob"></td>
+</tr>
+
+<tr>
+<td>Gender : </td>
+<td><input type="radio" name="gender" value="female">Female</td>
+<td><input type="radio" name="gender" value="male">Male</td>
+</tr>
+
+<tr>
+<td>Email-id : </td>
+<td><input type="email" name="email" required></td>
+</tr>
+
+<tr>
+<td>Password : </td>
+<td><input type="password" name="pass"></td>
+</tr>
+
+<tr>
+<td>Confirm Password : </td>
+<td><input type="password" name="pass"></td>
+</tr>
+
+<tr>
+<td><a href="login.html">Have an account</a><td>
+</tr>
+</table>
+
+<table align="center" cellpadding="7">
+<tr>
+<td><input type="submit" name="submit" value="Submit" onclick="msg()"></td>
+</tr>
+</table>
+
+</form>
+
+<div class="footer">Follow us : <a href="https:www.facebook.com/">facebook</a> <a href="https://www.gmail.com/"> Google</a><a href="https://www.twitter.com/">Twitter</a>
+</div>
+</body>
+</html>
